@@ -35,3 +35,10 @@ BFS algoritması ile en kısa yol garantisi sağlanırken, DFS ile daha hızlı 
 - Windows Forms üzerinden kullanıcı etkileşimleri
 
 - Yazılım tasarım desenlerine uygun geliştirme
+
+
+![Ekran görüntüsü 2025-04-22 174250](https://github.com/user-attachments/assets/fd124a18-c7d6-41a7-9e96-c32b510a5a4e)
+
+
+
+
