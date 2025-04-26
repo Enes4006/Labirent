@@ -1,0 +1,10 @@
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\bin\Debug\labirent.exe.config
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\bin\Debug\labirent.exe
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\bin\Debug\labirent.pdb
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.exe
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.pdb
+C:\Users\MONSTER\Desktop\compiled codes\C#\labirent\labirent\obj\Debug\labirent.Form1.resources
